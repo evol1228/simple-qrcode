@@ -1,3 +1,5 @@
+# pure ai code but amazing tool
+
 # QR Tool
 
 A lightweight desktop QR code generator and reader built with Python and tkinter.
