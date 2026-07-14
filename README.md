@@ -4,8 +4,9 @@
   <strong>A small Windows desktop app that generates QR codes as you type — and reads them back from any image.</strong>
 </p>
 
-<!-- TODO: Add a screenshot -->
-<!-- ![QR Tool](assets/screenshot.png) -->
+<p align="center">
+  <img src="assets/screenshot.png" alt="Simple QR Code" width="360" />
+</p>
 
 ---
 
